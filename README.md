@@ -1,1 +1,2 @@
-# week05_comp3104_lab_exec
+# week06_comp3104_lab_exec
+[![Build Status](https://travis-ci.com/sureyaF/week05_comp3104_lab_exec.svg?branch=master)](https://travis-ci.com/sureyaF/week05_comp3104_lab_exec)
