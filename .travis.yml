@@ -11,10 +11,11 @@ cache:
 
 
 install:
+  - npm install
   - npm install -g yarn
 script:
-# - yarn lint
- # - yarn build
+ #- yarn lint
+  - yarn build
   - mv build/index.html build/404.html
 deploy:
   provider: pages
